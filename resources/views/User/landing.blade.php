@@ -113,7 +113,7 @@
 <div class="mt-5">
     <hr>
     <div class="text-center">
-        <p class="italic text-secondary">© 2023 Tohari • All rights reserved</p>
+        <p class="italic text-secondary">© 2023 PEM • All rights reserved</p>
     </div>
 </div>
 {{-- Modal --}}

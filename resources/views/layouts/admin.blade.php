@@ -56,6 +56,9 @@
                 <li class="{{ Request::is('admin/laporan') ? 'active' : ''}}">
                     <a href="{{ route('laporan.index')}}">Laporan</a>
                 </li>
+                <li>
+                    <a href="{{ route('admin.logout')}}">Logout</a>
+                </li>
             </ul>
         </nav>
 
